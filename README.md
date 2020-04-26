@@ -6,14 +6,6 @@ Web Application [Link](https://yt-sponsored-vid.herokuapp.com/)
 
 # Tools Used
 
-test 
-```
-jsdnckjnsadcn
-sjdnckjasn
-sdjcnsakjdn
-askjdnk
-```
-
 * Python and it's libraries
 * Streamlit for Visualizations
 * Heroku to deploy the web based application on cloud
