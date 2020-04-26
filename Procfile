@@ -1,0 +1,1 @@
+web: sh setup.sh && streamlit run Trend_Metric_Channels.py
