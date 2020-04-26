@@ -37,7 +37,7 @@ enableCORS = false\n\
 \n\
 " > ~/.streamlit/config.toml
 ```
-* For without credentials</br> 
+* With credentials</br> 
 ```
 mkdir -p ~/.streamlit/
 echo "\
