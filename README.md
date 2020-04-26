@@ -1,12 +1,8 @@
-# INFO 7374 | Algorithmic Digital Marketing | Final Project
+# YouTube Channel based ad sponsorship
 
 Project Report Document 
 [Link](https://docs.google.com/document/d/17LH2tHUcMupo8Gp4IdkbEcm5pzd33Bxjc8hDaVvTJo0/edit#heading=h.nh1djjdrpyqf)</br>
 Web Application [Link](https://yt-sponsored-vid.herokuapp.com/)
-
-# Project Title
-
-### YouTube Channel based ad sponsorship
 
 # Tools Used
 
