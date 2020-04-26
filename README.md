@@ -27,6 +27,7 @@ We have used Heroku as it has only a few steps and requires minimum amount of co
 * Check if the app is running error free in virtual environment ``pipenv run streamlit run yourfilename.py``
 * Create the ``requirements.txt`` file with the command ``pipenv run pip freeze > requirements.txt``
 * Create the ``setup.sh`` file. If you want to by pass your creadentials then use this</br> ``mkdir -p ~/.streamlit/``</br>
+```
 ``echo "\``</br>
 ``[server]\n\``</br>
 ``headless = true\n\``</br>
@@ -34,7 +35,9 @@ We have used Heroku as it has only a few steps and requires minimum amount of co
 ``enableCORS = false\n\``</br>
 ``\n\``</br>
 ``" > ~/.streamlit/config.toml``</br>
+```
 * For without credentials</br> ``mkdir -p ~/.streamlit/``</br>
+```
 ``echo "\``</br>
 ``[general]\n\``</br>
 ``email = \"youremail@domain.com\"\n\``</br>
@@ -45,6 +48,7 @@ We have used Heroku as it has only a few steps and requires minimum amount of co
 ``enableCORS=false\n\``</br>
 ``port = $PORT\n\``</br>
 ``" > ~/.streamlit/config.toml``
+```
 * Compse the ``Procfile`` with the code ``web: sh setup.sh && streamlit run yourapp.py``
 * Go to the local environment and push all the files to git repository
  * ``git add .``
