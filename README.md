@@ -37,8 +37,9 @@ enableCORS = false\n\
 \n\
 " > ~/.streamlit/config.toml
 ```
-* For without credentials</br> ``mkdir -p ~/.streamlit/``</br>
+* For without credentials</br> 
 ```
+mkdir -p ~/.streamlit/
 echo "\
 [general]\n\
 email = \"youremail@domain.com\"\n\
