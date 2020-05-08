@@ -21,6 +21,8 @@ We have used Heroku as it has only a few steps and requires minimum amount of co
 * Create a Git Account on [GitHub](https://github.com/join?source=header-home)
 * Create A Repository for your app
 * Clone Your App locally``git clone yourreponame``
+* Install Heroku `sudo snap install --classic heroku`
+* Check if the heroku command is working ``heroku --help``
 * Install the library dependencies using the command such as ``pipenv install pandas streamlit numpy seaborn scikit-learn matplotlib``</br>
 ![](install_pic.png)
 * Run the virtual environment locally ``pipenv shell``
