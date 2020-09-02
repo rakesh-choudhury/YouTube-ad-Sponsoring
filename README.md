@@ -53,7 +53,7 @@ enableCORS=false\n\
 port = $PORT\n\
 " > ~/.streamlit/config.toml
 ```
-* Compse the ``Procfile`` with the code ``web: sh setup.sh && streamlit run yourapp.py``
+* Compose the ``Procfile`` with the code ``web: sh setup.sh && streamlit run yourapp.py``
 * Go to the local environment and push all the files to git repository
  * ``git add .``
  * ``git commit -m "your-message"``
