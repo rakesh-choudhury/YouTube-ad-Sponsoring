@@ -68,7 +68,7 @@ pillow==9.0.1
 plotly==4.6.0
 prometheus-client==0.13.1; python_version >= '3.6'
 prompt-toolkit==3.0.28; python_full_version >= '3.6.2'
-protobuf==3.19.4; python_version >= '3.5'
+protobuf==3.19.5; python_version >= '3.5'
 ptyprocess==0.7.0; os_name != 'nt'
 pure-eval==0.2.2
 pycparser==2.21
